@@ -115,6 +115,8 @@ class Result:
     """Defines a result of a `.ProblemSet`.
 
     Returned by the `.StateTransitionManager`
+
+    Just make a nonsense change for the release drafter
     """
 
     # pylint: disable=too-many-arguments
