@@ -13,6 +13,10 @@ categories:
   - title: 🖱️ Internals
     label: 🖱️ DX
 
+replacers:
+  - search: '\n'
+    replace: "  "
+
 change-template: "- $TITLE (#$NUMBER)\n  $BODY"
 sort-direction: ascending
 template: |
